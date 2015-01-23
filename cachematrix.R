@@ -27,3 +27,4 @@ return(m)
 m <- solve(x$get())
 x$setInverse(m)
 m
+}
